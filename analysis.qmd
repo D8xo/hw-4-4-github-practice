@@ -1,0 +1,21 @@
+---
+title: "HW 4.3 Analysis"
+author: "GitHub User: D8xo"
+date: "2026-04-15"
+format: pdf
+execute:
+  echo: true
+---
+
+## Introduction
+This document demonstrates a simple reproducible analysis.
+
+## Example Code
+
+```{r}
+x <- c(1, 2, 3, 4, 5)
+mean(x)
+```
+
+## Conclusion
+This shows a basic example of a reproducible report using Quarto.
