@@ -9,3 +9,6 @@
 
 ## Current Plan
 - The project focuses on learning GitHub workflow, including branching, issue tracking, commits, and pull requests.
+
+## Contact
+- GitHub user: D8xo
