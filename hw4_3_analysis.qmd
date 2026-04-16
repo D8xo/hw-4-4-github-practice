@@ -15,8 +15,10 @@ execute:
 
 This section compares six of the busiest passenger airports in the world from 2020 to 2025. I use both a table and a line graph because they help in different ways. The table is better for checking exact passenger counts, while the graph is better for seeing overall patterns across time.
 
-# Following Tidyverse style guide 
+
+ 
 ```{r}
+# Following Tidyverse style guide
 #| include: false
 #| echo: false
 #| warning: false
